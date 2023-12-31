@@ -2,13 +2,18 @@
 
 /* Standard elements */
 body {
-    font-family: $body-font-family, Arial, Helvetica, sans-serif; 
+    font-family: $body-font-family;
     color: $text-color;
     background-color: $background-color;
     box-sizing: content-box;
     overflow: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+/* main {
+    margin: 1%;
+    padding: 0;
 }
 
 article {
@@ -26,4 +31,14 @@ article:last-child {
 
 section {
     margin: 1% 0;
+}
+ */
+ 
+.cover-text {
+    font-family: $noto-sans-display-family;
+    color: $cover-text-color;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
