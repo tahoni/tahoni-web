@@ -1,4 +1,4 @@
-### NODE ###
+### NODE ####
 # Logs
 logs
 *.log
@@ -191,7 +191,7 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 
-## VSCODE
+### VSCODE ###
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
