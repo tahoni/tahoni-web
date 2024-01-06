@@ -12,9 +12,6 @@ export const Layout = (): React.ReactElement => {
                     <span className="cover-text">My Coding Journey</span>
                 </div>
             </main>
-            <footer className={classes.Footer}>
-                Here
-            </footer>
         </Container>
     )
 }
