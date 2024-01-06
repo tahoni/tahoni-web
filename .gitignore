@@ -206,4 +206,5 @@ fabric.properties
 ### CUSTOM ###
 .npmrc
 .run/
+.idea/
 build/
