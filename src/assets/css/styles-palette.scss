@@ -1,0 +1,35 @@
+/* Fonts */
+$noto-sans: 'Noto Sans';
+$noto-sans-display: 'Noto Sans Display';
+$noto-serif: 'Noto Serif';
+$noto-serif-display: 'Noto Serif Display';
+$noto-sans-code: 'Noto Sans Mono';
+
+/* Font Families */
+$noto-sans-family: $noto-sans, Arial, Helvetica, sans-serif;
+$noto-sans-display-family: $noto-sans-display, Arial, Helvetica, sans-serif;
+$noto-serif-family: $noto-serif, 'Times New Roman', Times, serif;
+$noto-serif-display-family: $noto-serif-display, 'Times New Roman', Times, serif;
+$noto-code-family: $noto-sans-code, 'Courier New', Courier, monospace;
+
+/* Colours */
+$mimi-pink: #ffe0e9ff;
+$orchid-pink: #ffc2d4ff;
+$amaranth-pink: #ff9ebbff;
+$rose-pompadour: #ff7aa2ff;
+$blush: #e05780ff;
+$rose-red: #b9375eff;
+$claret: #8a2846ff;
+$wine: #602437ff;
+$eggplant: #522e38ff;
+
+/* Gradients */
+$gradient-top: linear-gradient(0deg, #ffe0e9ff, #ffc2d4ff, #ff9ebbff, #ff7aa2ff, #e05780ff, #b9375eff, #8a2846ff, #602437ff, #522e38ff);
+$gradient-right: linear-gradient(90deg, #ffe0e9ff, #ffc2d4ff, #ff9ebbff, #ff7aa2ff, #e05780ff, #b9375eff, #8a2846ff, #602437ff, #522e38ff);
+$gradient-bottom: linear-gradient(180deg, #ffe0e9ff, #ffc2d4ff, #ff9ebbff, #ff7aa2ff, #e05780ff, #b9375eff, #8a2846ff, #602437ff, #522e38ff);
+$gradient-left: linear-gradient(270deg, #ffe0e9ff, #ffc2d4ff, #ff9ebbff, #ff7aa2ff, #e05780ff, #b9375eff, #8a2846ff, #602437ff, #522e38ff);
+$gradient-top-right: linear-gradient(45deg, #ffe0e9ff, #ffc2d4ff, #ff9ebbff, #ff7aa2ff, #e05780ff, #b9375eff, #8a2846ff, #602437ff, #522e38ff);
+$gradient-bottom-right: linear-gradient(135deg, #ffe0e9ff, #ffc2d4ff, #ff9ebbff, #ff7aa2ff, #e05780ff, #b9375eff, #8a2846ff, #602437ff, #522e38ff);
+$gradient-top-left: linear-gradient(225deg, #ffe0e9ff, #ffc2d4ff, #ff9ebbff, #ff7aa2ff, #e05780ff, #b9375eff, #8a2846ff, #602437ff, #522e38ff);
+$gradient-bottom-left: linear-gradient(315deg, #ffe0e9ff, #ffc2d4ff, #ff9ebbff, #ff7aa2ff, #e05780ff, #b9375eff, #8a2846ff, #602437ff, #522e38ff);
+$gradient-radial: radial-gradient(#ffe0e9ff, #ffc2d4ff, #ff9ebbff, #ff7aa2ff, #e05780ff, #b9375eff, #8a2846ff, #602437ff, #522e38ff);
