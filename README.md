@@ -28,7 +28,7 @@ The repository for this project is located at
 [GitHub](https://github.com/tahoni/tahoni-web).
 
 Feature requests, suggestions for improvements and bugs can be logged 
-using the project's [Issues](https://github.com/tahoni/tahoni-xxx/issues) page.
+using the project's [Issues](https://github.com/tahoni/tahoni-web/issues) page.
 
 The project can be found at [https://tahoni.info](https://www.tahoni.info).
 
