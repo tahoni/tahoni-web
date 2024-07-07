@@ -1,9 +1,8 @@
-# Leoni Lubbinge's web site
+# Leoni Lubbinge's website
 
 ## Table of contents
 - [Description](#description)
 - [Summary](#summary)
-- [Background](#background)
 - [Repository](#repository)
 - [Structure](#structure)
 - [Technology](#technology)
@@ -14,11 +13,11 @@
 - [Support](#support)
 
 ## Description
-This project stores the source code for my web site at https://www.tahoni.info.
+This project stores the source code for my website at https://www.tahoni.info.
 
 ## Summary
-This project stores the source code for my web site at https://www.tahoni.info.\
-It is a React project that was bootstrapped using Create React App 
+This project stores the source code for my website at https://www.tahoni.info.\
+It is a React project that was bootstrapped using the Create React App utility
 with the Redux Typescript.
 It is written in TypeScript and uses Bootstrap and React Bootstrap 
 as the UI framework.
@@ -36,6 +35,7 @@ The project can be found at [https://tahoni.info](https://www.tahoni.info).
 A high-level structure of the project.
 ```text
 ├───documentation
+│   ├───manual
 │   └───screenshots
 ├───public
 └───src
@@ -127,18 +127,18 @@ for more information.
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, 
-you can `eject` at any time. This command will remove the single build dependency 
+If you aren’t satisfied with the build tool and configuration choices,
+you can `eject` anytime. This command will remove the single-build dependency
 from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies 
-(webpack, Babel, ESLint, etc) right into your project so you have full control 
-over them. All of the commands except `eject` will still work, but they will point 
-to the copied scripts so you can tweak them. At this point you’re on your own.
+Instead, it will copy all the configuration files and the transitive dependencies
+(webpack, Babel, ESLint, etc.) into your project, so you have full control
+over them. All the commands except `eject` will still work, but they will point
+to the copied scripts, so you can tweak them. At this point, you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for 
 small and middle deployments, and you shouldn’t feel obligated to use this feature. 
-However we understand that this tool wouldn’t be useful if you couldn’t customize it 
+However, we understand that this tool wouldn’t be useful if you couldn’t customize it 
 when you are ready for it.
 
 ## Screenshots
